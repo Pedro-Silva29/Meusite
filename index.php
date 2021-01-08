@@ -4,7 +4,7 @@
 //reg lindo
 //meu código PHP vem aqui
 //LOOSER
-//SOMOS UM CADAVER ADIADO (FERNANDO PESSOA)
+//SOMOS UM CADAVER ADIADO (FERNANDO PESSOA)123
 
 $pg = isset($_GET['pg']);
 
